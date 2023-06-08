@@ -16,7 +16,7 @@ public class BaseContext {
     }
 
     /**
-     * 获取值结婚戒指的骄傲
+     * 获取值结婚戒指的骄傲hjh
      * @return
      */
     public static Long getCurrentId(){
